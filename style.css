@@ -1,0 +1,14 @@
+body{
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+h1, h2, h3, h4{
+    color: #003d8d;
+    margin-top: 20px;
+}
+.info-box-orange{
+    background: #faebcc;
+}
+.box{
+    display: flex;
+}
