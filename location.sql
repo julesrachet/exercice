@@ -37,3 +37,6 @@ INSERT INTO voitures (marque, modele, est_louee, taille_jantes, dernier_client, 
 ('Jaguar', 'XE', true, '20 pouces', 'James Adams', '9012TUV'),
 ('Tesla', 'Model 3', true, '19 pouces', 'Karen Clark', '5678XYZ'),
 ('Porsche', '911', false, '20 pouces', 'Aucun', '2345ABC');
+
+drop table voitures;
+drop DATABASE location;
