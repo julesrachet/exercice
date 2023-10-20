@@ -4,6 +4,7 @@ html {
 body{
     padding-left: 10rem;
     padding-right: 10rem;
+    font-family: "OpenSansRegular", Arial, Helvetica, sans-serif !important;
 }
 img{
     width: 80%;
